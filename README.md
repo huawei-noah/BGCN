@@ -13,7 +13,7 @@ numpy
 scipy
 tensorflow (>=1.5.0)
 ```
-## Run the demo
+### Run the demo
 ```
 python BGCN_main.py
 ```
