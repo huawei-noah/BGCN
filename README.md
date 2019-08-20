@@ -7,6 +7,10 @@ Yingxue Zhang*, Soumyasundar Pal*, Mark Coates, Deniz Üstebay, [Bayesian graph 
 ## Getting Started
 ### Prerequisites
 
+## Model
+
+## Run the demo
+
 
 ## Idea illustration
 Almost all graph convolution based algorithms process a graph as though it is the ground-truth depiction of the relationship between nodes, but often the graphs employed in applications are themselves derived from noisy data or modeling assumptions. Spurious edges may be included; other edges may be missing between nodes that have very strong relationships. Thus, the current GCNNs algorithms have the following limitations: (1) All the previous GCNN models are deterministic models and unable to capture the uncertainty of the underlying data topology.   (2) Overfitting problem happens when limited labels are presented for training.  (3) Sensitive to spurious links in the underlying structure.
