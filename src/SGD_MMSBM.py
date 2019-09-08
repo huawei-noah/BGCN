@@ -1,3 +1,13 @@
+"""
+    Copyright (C) 2019. Huawei Technologies Co., Ltd. All rights reserved.
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the MIT License.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    MIT License for more details.
+    """
+
 import numpy as np
 from src.utils import reparameterized_to_beta, reparameterized_to_pi, graph_preparation, metric_perp_avg, \
     bernuli_distrbution, step_size_function, accuracy_avg, initialize_theta_phi_with_better_initialization
